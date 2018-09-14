@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">demo</string>
+   
+    <string name="action_regiser">新闻列表</string>
+    <string name="action_userlist">用户列表</string>
+    <string name="action_employeelist">数据列表</string>
+</resources>
